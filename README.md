@@ -4,7 +4,7 @@
 
 </br>
 
-## 백준
+## BOJ
 
 * [10430_나머지](https://github.com/hyek0226/Algorithm/blob/master/BackJoon/10430%20-%20%EB%82%98%EB%A8%B8%EC%A7%80/10430%20-%20%EB%82%98%EB%A8%B8%EC%A7%80.md)
 * [10871_x보다 작은 수](https://github.com/hyek0226/Algorithm/blob/master/BackJoon/10871_x%EB%B3%B4%EB%8B%A4%20%EC%9E%91%EC%9D%80%EC%88%98/Main.java)
